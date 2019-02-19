@@ -1,1 +1,1 @@
-var green_monochrome = ["#27BB8B", "#299672", "#225544", "#18332A"];
+var nebula_palette = ["#AAFF00", "#006278", "#0A0088", "#C35800"];
