@@ -46,7 +46,7 @@ function createAndDrawCircle() {
     } 
   }
 
-  var palette = green_monochrome;
+  var palette = nebula_palette;
   function randomColor(){
       var number = Math.floor(Math.random() * Math.floor(4));
       var randomColor = palette[number];
