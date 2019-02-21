@@ -1,1 +1,1 @@
-var green_monochrome = ["#27BB8B", "#299672", "#225544", "#18332A"];
+var purple_monochrome = ["#410D79", "#180C25", "#250943", "#5408A6"];
