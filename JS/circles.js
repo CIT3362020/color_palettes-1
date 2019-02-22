@@ -46,7 +46,7 @@ function createAndDrawCircle() {
     } 
   }
 
-  var palette = blue_monochrome;
+  var palette = moneyseries4;
   function randomColor(){
       var number = Math.floor(Math.random() * Math.floor(4));
       var randomColor = palette[number];
