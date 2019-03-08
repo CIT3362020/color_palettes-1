@@ -46,7 +46,7 @@ function createAndDrawCircle() {
     } 
   }
 
-  var palette = fall_time;
+  var palette = green_monochrome;
   function randomColor(){
       var number = Math.floor(Math.random() * Math.floor(4));
       var randomColor = palette[number];
